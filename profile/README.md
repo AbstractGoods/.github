@@ -2,4 +2,4 @@
 
 # Abstract Goods
 
-A creative product design and development studio, creating public goods onchain.
+A product design and development studio. Creating public goods onchain.
