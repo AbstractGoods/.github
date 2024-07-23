@@ -1,6 +1,6 @@
-![banner-1-rounded](https://github.com/AbstractGoods/.github/assets/21178/cfeb1f8f-fac2-4c22-8728-a370221e4613)
+[![banner-1-rounded](https://github.com/AbstractGoods/.github/assets/21178/cfeb1f8f-fac2-4c22-8728-a370221e4613)](https://abstractgoods.com)
 
-# Abstract Goods
+# [Abstract Goods](https://abstractgoods.com)
 
 A product design and development studio by [@neatonk](https://github.com/neatonk).
 
